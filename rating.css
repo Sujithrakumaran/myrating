@@ -1,0 +1,72 @@
+input {
+   background-color: black; 
+   color: rgb(241, 241, 230);
+   height: 30px;
+   width: 100px;
+   border-radius: 15px;
+   justify-content: center;
+   font-size: 15px;
+   font-weight: bolder;
+}
+img{
+    height: 80px;
+    width: 100px;
+}
+#container{
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    justify-items: center;
+    height:150px;
+    width: 700px;
+   
+    top: 100px;
+    left: 300px;
+}
+#stars{
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    justify-items: center;
+    height:150px;
+    width: 500px;
+
+    top: 90px;
+    left: 400px
+}
+#cry{
+    opacity: 0;
+}
+#sad{
+    opacity: 0;
+}
+#invface{
+    opacity: 0;
+}
+#love{
+    opacity: 0;
+}
+#happy{
+    opacity: 0;
+}
+#cry1{
+    opacity: 0;
+}
+#sad1{
+    opacity: 0;
+}
+#invface1{
+    opacity: 0;
+}
+#love1{
+    opacity: 0;
+}
+#happy1{
+    opacity: 0;
+}
+h1{ 
+    position: relative;
+    left :550px;
+    top:80px;
+    
+}
